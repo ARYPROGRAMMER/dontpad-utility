@@ -77,7 +77,7 @@ function App() {
         <div className="max-w-6xl mx-auto flex items-center justify-between">
           <div className="flex items-center space-x-2">
             <FileText className="h-6 w-6" />
-            <h1 className="text-xl font-bold">DontPad Clone Because I wont But it</h1>
+            <h1 className="text-xl font-bold">DontPad Clone Because I won't Buy it</h1>
           </div>
           <form onSubmit={navigateToPath} className="flex space-x-2">
             <input

@@ -77,7 +77,7 @@ function App() {
         <div className="max-w-6xl mx-auto flex items-center justify-between">
           <div className="flex items-center space-x-2">
             <FileText className="h-6 w-6" />
-            <h1 className="text-xl font-bold">DontPad Clone</h1>
+            <h1 className="text-xl font-bold">DontPad Clone Because I wont But it</h1>
           </div>
           <form onSubmit={navigateToPath} className="flex space-x-2">
             <input
@@ -136,7 +136,7 @@ function App() {
       <footer className="fixed bottom-0 w-full bg-white border-t py-2">
         <div className="max-w-6xl mx-auto px-4 text-sm text-gray-600">
           <p>
-            Just like DontPad, simply type any path in the URL to create/edit a note.
+            Just like DontPad, - no this is better | No Ads simply type any path in the URL to create/edit a note.
             Everything is saved automatically to Firebase.
           </p>
         </div>
